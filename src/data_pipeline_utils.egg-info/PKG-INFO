@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: data_pipeline_utils
+Version: 0.1
+Summary: Import custom packages to create a more structured project for ETL/ELT under ./src
+Author: luuisss1598
+License-File: LICENSE
+Dynamic: author
+Dynamic: license-file
+Dynamic: summary
