@@ -30,3 +30,8 @@ Basic example of what a config file might look like
 #     client_id=settings.spotify_credentials["client_id"],
 #     client_secret=settings.spotify_credentials["client_secret"]
 # )
+
+
+from connections.spotify import get_current_time
+
+print(get_current_time())

@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+src/core/__init__.py
+src/core/config.py
+src/core/connections/__init__.py
+src/core/connections/spotify_client.py
+src/custom_packages.egg-info/PKG-INFO
+src/custom_packages.egg-info/SOURCES.txt
+src/custom_packages.egg-info/dependency_links.txt
+src/custom_packages.egg-info/top_level.txt
+src/extractors/__init__.py
+src/loaders/__init__.py
+src/transformers/__init__.py
