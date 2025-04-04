@@ -2,3 +2,6 @@
 .env.production
 !env.example
 terraform/terraform.tfvars
+__pycache__
+logs/*
+test.py
