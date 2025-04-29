@@ -8,8 +8,16 @@ requests = "==2.32.3"
 python-dotenv = "==1.0.1"
 apache-airflow = "==2.10.5"
 setuptools = "*"
-
-[dev-packages]
+pandas = "==2.2.3"
+polars = "==1.26.0"
+pyspark = "==3.5.5"
+spotipy = "==2.25.1"
+ruff = "*"
+boto3 = "==1.37.0"
+pyarrow = "==19.0.1"
+pyshark = "*"
 
 [requires]
 python_version = "3.12"
+
+[dev-packages]
