@@ -5,3 +5,9 @@ terraform/terraform.tfvars
 __pycache__
 logs/*
 test.py
+data/
+.cache
+test2.json
+test.json
+test3.py
+test_tracks.csv
